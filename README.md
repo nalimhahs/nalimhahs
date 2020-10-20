@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nalimhahs/nalimhahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey there 👋
+I'm Milan Shah, a student and freelance webdev specializing in Django and ReactJS.
+
+📫 You can reach me via:
+
+<a href="https://twitter.com/nalimhahs">
+  <img align="left" alt="Milan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/nalimhahs/">
+  <img align="left" alt="Milan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/nalimhahs">
+  <img align="left" alt="Milan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>

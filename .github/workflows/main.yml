@@ -14,4 +14,11 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_SECRET }}
+          template: "@super-metrics"
+          setup_community_templates: octocat/metrics@master:super-metrics, octocat/metrics@master:trusted-metrics+trust
+          query: '{"custom_color":"#FF0000"}'
+          config_twemoji: yes
+          config_padding: 5, 8 + 11%
+          use_prebuilt_image: yes
+          config_display: column
 

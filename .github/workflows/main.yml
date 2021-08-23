@@ -26,6 +26,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_SECRET }}
           filename: metrics.left.svg
+          base: ""
           config_twemoji: yes
           config_padding: 5, 8 + 11%
           use_prebuilt_image: yes
@@ -42,6 +43,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_SECRET }}
           filename: metrics.right.svg
+          base: ""
           config_twemoji: yes
           config_padding: 5, 8 + 11%
           use_prebuilt_image: yes
@@ -58,6 +60,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_SECRET }}
           filename: metrics.bottom.svg
+          base: ""
           config_twemoji: yes
           config_padding: 5, 8 + 11%
           use_prebuilt_image: yes

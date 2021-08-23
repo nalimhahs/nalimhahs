@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 # Hey there 👋
 I'm Milan Shah, a student and freelance webdev specializing in Django and ReactJS.
 
-<!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/nalimhahs/nalimhahs/blob/master/github-metrics.svg)
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/nalimhahs/nalimhahs/blob/main/github-metrics.svg)
 <!-- If you're using the "columns" display mode -->
-<img src="https://github.com/nalimhahs/nalimhahs/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/nalimhahs/nalimhahs/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 
 📫 You can reach me via:

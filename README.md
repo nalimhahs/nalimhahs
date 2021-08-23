@@ -11,15 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 # Hey there 👋
 I'm Milan Shah, a student and freelance webdev specializing in Django and ReactJS.
-
-<!-- If you're using the "columns" display mode -->
-<img src="https://github.com/nalimhahs/nalimhahs/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-
-
 📫 You can reach me via:
 
 <a href="https://twitter.com/nalimhahs">
@@ -33,3 +26,9 @@ I'm Milan Shah, a student and freelance webdev specializing in Django and ReactJ
 <a href="https://github.com/nalimhahs">
   <img align="left" alt="Milan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+-->
+
+<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.top.svg" alt="Metrics" width="100%">
+<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.bottom.svg" alt="Metrics" width="100%">
+<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.left.svg" alt="Metrics" width="50%">
+<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.right.svg" alt="Metrics" width="50%">

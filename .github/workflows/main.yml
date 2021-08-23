@@ -62,5 +62,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          # config_order: anilist, music
 
 

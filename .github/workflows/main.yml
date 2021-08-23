@@ -16,19 +16,16 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
           filename: metrics.top.svg
           config_twemoji: yes
-          config_padding: 5, 8 + 11%
           use_prebuilt_image: yes
           config_display: column
           template: terminal
           
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_SECRET }}
+          token: NOT_NEEDED
           filename: metrics.left.svg
           base: ""
           config_twemoji: yes
-          config_padding: 5, 8 + 11%
           use_prebuilt_image: yes
           config_display: column
           plugin_anilist: yes
@@ -40,12 +37,10 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_SECRET }}
+          token: NOT_NEEDED
           filename: metrics.right.svg
           base: ""
           config_twemoji: yes
-          config_padding: 5, 8 + 11%
           use_prebuilt_image: yes
           config_display: column
           plugin_music: yes
@@ -62,7 +57,6 @@ jobs:
           filename: metrics.bottom.svg
           base: ""
           config_twemoji: yes
-          config_padding: 5, 8 + 11%
           use_prebuilt_image: yes
           config_display: column
           plugin_isocalendar: yes

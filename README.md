@@ -30,5 +30,5 @@ I'm Milan Shah, a student and freelance webdev specializing in Django and ReactJ
 
 <img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.top.svg" alt="Metrics" width="100%">
 <img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.bottom.svg" alt="Metrics" width="100%">
-<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.left.svg" alt="Metrics" width="50%">
-<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.right.svg" alt="Metrics" width="50%">
+<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.left.svg" alt="Metrics" width="40%">
+<img src="https://github.com/nalimhahs/nalimhahs/blob/main/metrics.right.svg" alt="Metrics" width="40%">

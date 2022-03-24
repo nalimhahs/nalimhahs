@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.54535448496904" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="266.54535448496904" y="0" width="125.21226402145265" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.7576185064217" y="0" width="40.92103856559536" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="432.6786570720171" y="0" width="12.88511579432156" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.5637728663386" y="0" width="11.537950508169565" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="457.1017233745082" y="0" width="1.5087447667529306" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.6104681412611" y="0" width="1.0803960457434967" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="459.6908641870046" y="0" width="0.3091358129954084" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.3766750706562" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="266.3766750706562" y="0" width="125.1330252314886" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="391.5097003021448" y="0" width="40.895142271767035" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="432.4048425739118" y="0" width="13.168066052239565" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.5729086261514" y="0" width="11.530648881255642" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="457.103557507407" y="0" width="1.507789979211819" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.6113474866188" y="0" width="1.079712332562398" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="459.6910598191812" y="0" width="0.30894018081873836" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>41.2 MB</div>
-                                <div>57.94%</div>
+                                <div>57.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>6.34 MB</div>
-                                <div>8.9%</div>
+                                <div>8.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>19.3 MB</div>
-                                <div>27.22%</div>
+                                <div>27.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,8 +102,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.99 MB</div>
-                                <div>2.8%</div>
+                                <div>2.04 MB</div>
+                                <div>2.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1196,7 +1196,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/zustand</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">

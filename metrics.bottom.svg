@@ -1186,7 +1186,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DigitalPhonetics/IMS-Toucan</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IMS-Toucan is a toolkit to train state-of-the-art Speech Synthesis models. Everything is pure Python and PyTorch based to keep it as simple and beginner-friendly, yet powerful as possible.</div>
@@ -1292,7 +1292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lucidrains/video-diffusion-pytorch</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implementation of Video Diffusion Models, Jonathan Ho's new paper extending DDPMs to Video Generation - in Pytorch</div>

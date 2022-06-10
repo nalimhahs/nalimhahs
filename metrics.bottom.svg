@@ -25,7 +25,7 @@
                     <rect mask="url(#languages-bar)" x="226.4611532787819" y="0" width="107.50703342873791" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="333.96818670751975" y="0" width="74.16652192491884" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="408.1347086324386" y="0" width="25.64401763099868" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="433.7787262634373" y="0" width="20.956982446485977" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="433.7787262634373" y="0" width="20.956982446485977" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="454.73570870992324" y="0" width="2.7404119623048113" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="457.47612067222803" y="0" width="1.9623797961230227" height="8" fill="#244776"/>
                     <rect mask="url(#languages-bar)" x="459.4385004683511" y="0" width="0.5614995316488607" height="8" fill="#89e051"/>
@@ -59,7 +59,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -1164,7 +1164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LivingWithHippos/unchained-android</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">App to interact with real-debrid API</div>

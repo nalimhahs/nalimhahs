@@ -1174,7 +1174,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Quaggles/SwarmUI-FaceTools</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A SwarmUI extension that adds parameters for ReActor and FaceRestoreCF nodes to the the generate tab</div>
@@ -1227,7 +1227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Gourieff/comfyui-reactor-node</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and Simple Face Swap Extension Node for ComfyUI</div>
@@ -1261,7 +1261,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        241
+                                        242
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1280,7 +1280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mav-rik/facerestore_cf</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ComfyUI Custom node that supports face restore models and supports CodeFormer Fidelity parameter</div>

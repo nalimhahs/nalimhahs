@@ -1174,7 +1174,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Quaggles/SwarmUI-FaceTools</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A SwarmUI extension that adds parameters for ReActor and FaceRestoreCF nodes to the the generate tab</div>
@@ -1227,7 +1227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Gourieff/comfyui-reactor-node</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and Simple Face Swap Extension Node for ComfyUI</div>
@@ -1280,7 +1280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mav-rik/facerestore_cf</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ComfyUI Custom node that supports face restore models and supports CodeFormer Fidelity parameter</div>
@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apple/ml-mdm</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Train high-quality text-to-image diffusion models in a data &amp; compute efficient manner</div>

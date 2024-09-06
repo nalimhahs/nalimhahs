@@ -1164,7 +1164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rickrender/FluxLatentUpscaler</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This Flux latent upscaler workflow creates a lower-resolution initial pass, then advances to a second pass that upscales in latent space to twice the original size. Latent space manipulations in the second pass largely preserve the original composition, though some changes occur when doubling the resolution. Resolution is not exactly 2x but close.</div>

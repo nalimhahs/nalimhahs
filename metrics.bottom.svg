@@ -1196,7 +1196,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aredden/flux-fp8-api</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flux diffusion model implementation using quantized fp8 matmul &amp; remaining layers use faster half precision accumulate, which is ~2x faster on consumer devices.</div>
@@ -1249,7 +1249,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zeju1997/oft</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official implementation of "Controlling Text-to-Image Diffusion by Orthogonal Finetuning".</div>

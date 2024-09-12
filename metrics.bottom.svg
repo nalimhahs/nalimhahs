@@ -1196,7 +1196,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aredden/flux-fp8-api</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flux diffusion model implementation using quantized fp8 matmul &amp; remaining layers use faster half precision accumulate, which is ~2x faster on consumer devices.</div>

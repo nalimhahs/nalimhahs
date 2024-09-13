@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.17360348870085" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="224.17360348870085" y="0" width="108.4089166046242" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="332.58252009332506" y="0" width="74.80381099248618" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="407.3863310858112" y="0" width="25.862466030973085" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="433.24879711678426" y="0" width="21.442067761495142" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.69086487827946" y="0" width="2.7637561440570715" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.4546210223365" y="0" width="1.979096315849908" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="459.4337173381864" y="0" width="0.5662826618135663" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.1350106058423" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="224.1350106058423" y="0" width="108.39025333404177" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="332.5252639398841" y="0" width="74.79093305025712" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="407.3161969901412" y="0" width="25.93720551292913" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="433.25340250307033" y="0" width="21.43837637590609" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.6917788789764" y="0" width="2.763280346213538" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.4550592251899" y="0" width="1.978755602085688" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="459.43381482727557" y="0" width="0.5661851727243423" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>9.16 MB</div>
-                                <div>23.57%</div>
+                                <div>23.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>2.19 MB</div>
-                                <div>5.62%</div>
+                                <div>5.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1164,7 +1164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVlabs/tiny-cuda-nn</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightning fast C++/CUDA neural network framework</div>

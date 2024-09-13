@@ -1164,7 +1164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infinitered/ignite</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!</div>
@@ -1217,7 +1217,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVlabs/tiny-cuda-nn</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightning fast C++/CUDA neural network framework</div>
@@ -1270,7 +1270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aredden/flux-fp8-api</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flux diffusion model implementation using quantized fp8 matmul &amp; remaining layers use faster half precision accumulate, which is ~2x faster on consumer devices.</div>

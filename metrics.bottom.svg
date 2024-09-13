@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.1350106058423" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="224.1350106058423" y="0" width="108.39025333404177" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="332.5252639398841" y="0" width="74.79093305025712" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="407.3161969901412" y="0" width="25.93720551292913" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="433.25340250307033" y="0" width="21.43837637590609" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.6917788789764" y="0" width="2.763280346213538" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.4550592251899" y="0" width="1.978755602085688" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="459.43381482727557" y="0" width="0.5661851727243423" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.1329931182362" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="224.1329931182362" y="0" width="108.38927768997735" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="332.52227080821353" y="0" width="74.7902598409264" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="407.31253064913994" y="0" width="25.941112605827296" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="433.25364325496724" y="0" width="21.438183404453227" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.6918266594205" y="0" width="2.7632554733307346" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.4550821327512" y="0" width="1.9787377908794332" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="459.43381992363067" y="0" width="0.5661800763694013" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>18.9 MB</div>
-                                <div>48.73%</div>
+                                <div>48.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1164,7 +1164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVlabs/tiny-cuda-nn</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightning fast C++/CUDA neural network framework</div>
@@ -1191,7 +1191,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        448
+                                        449
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1323,7 +1323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unclecode/crawl4ai</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1362,7 +1362,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.66k
+                                        2.67k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">

@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.57882944531138" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="223.57882944531138" y="0" width="108.12126257224865" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="331.70009201756" y="0" width="74.62811797025732" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="406.32820998781733" y="0" width="25.875860692545654" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="432.204070680363" y="0" width="21.700568138528627" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.9046388188916" y="0" width="2.7563048190060515" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.6609436378976" y="0" width="1.9737605014046338" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="458.63470413930224" y="0" width="1.3652958606976764" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.47524874385118" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="223.47524874385118" y="0" width="108.07117162111622" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="331.5464203649674" y="0" width="74.59354388814413" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="406.1399642531115" y="0" width="25.86387279633889" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.0038370494504" y="0" width="21.724955831777212" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.7287928812276" y="0" width="2.7550278645318773" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.4838207457595" y="0" width="1.9728460879167506" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="458.4566668336763" y="0" width="1.54333316632375" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>18.9 MB</div>
-                                <div>48.6%</div>
+                                <div>48.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>9.16 MB</div>
-                                <div>23.5%</div>
+                                <div>23.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>2.19 MB</div>
-                                <div>5.63%</div>
+                                <div>5.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,8 +126,8 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>115 kB</div>
-                                <div>0.3%</div>
+                                <div>130 kB</div>
+                                <div>0.34%</div>
                             </small>
                         </div>
                     </section>
@@ -1191,7 +1191,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>barvian/number-flow</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A component to transition, format, and localize numbers.</div>
@@ -1212,7 +1212,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        4.13k
+                                        4.14k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1244,7 +1244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leaningtech/webvm</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtual Machine for the Web</div>
@@ -1265,20 +1265,20 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        9.03k
+                                        9.15k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        1.42k
+                                        1.44k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        93
+                                        94
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">

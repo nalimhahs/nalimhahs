@@ -1174,7 +1174,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kata-containers/kata-containers</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/</div>
@@ -1227,7 +1227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firecracker-microvm/firecracker-containerd</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">firecracker-containerd enables containerd to manage containers as Firecracker microVMs</div>

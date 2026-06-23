@@ -1,0 +1,107 @@
+name: "Generate Metrics SVG"
+description: "Shared wrapper around lowlighter/metrics with common display defaults"
+
+inputs:
+  token:
+    description: "GitHub token (use NOT_NEEDED when no token is required)"
+    required: true
+  filename:
+    description: "Output SVG filename"
+    required: true
+  base:
+    description: "Base content sections to include (empty string hides all)"
+    default: "header, activity, community, repositories, metadata"
+  template:
+    description: "Metrics template"
+    default: "classic"
+
+  # Anilist plugin
+  plugin_anilist:
+    description: "Enable anilist plugin"
+    default: "no"
+  plugin_anilist_medias:
+    description: "Anilist media types to display"
+    default: ""
+  plugin_anilist_sections:
+    description: "Anilist sections to display"
+    default: ""
+  plugin_anilist_limit:
+    description: "Anilist entries limit per section"
+    default: "0"
+  plugin_anilist_shuffle:
+    description: "Shuffle anilist data"
+    default: "no"
+  plugin_anilist_user:
+    description: "Anilist username"
+    default: ""
+
+  # Music plugin
+  plugin_music:
+    description: "Enable music plugin"
+    default: "no"
+  plugin_music_provider:
+    description: "Music provider"
+    default: ""
+  plugin_music_mode:
+    description: "Music plugin mode"
+    default: ""
+  plugin_music_limit:
+    description: "Music entries limit"
+    default: "0"
+  plugin_music_played_at:
+    description: "Show play timestamps"
+    default: "no"
+  plugin_music_token:
+    description: "Music provider authentication token"
+    default: ""
+
+  # Isocalendar plugin
+  plugin_isocalendar:
+    description: "Enable isocalendar plugin"
+    default: "no"
+
+  # Stars plugin
+  plugin_stars:
+    description: "Enable stars plugin"
+    default: "no"
+  plugin_stars_limit:
+    description: "Stars limit"
+    default: "0"
+
+  # Languages plugin
+  plugin_languages:
+    description: "Enable languages plugin"
+    default: "no"
+  plugin_languages_details:
+    description: "Language detail fields to show"
+    default: ""
+
+runs:
+  using: "composite"
+  steps:
+    - uses: lowlighter/metrics@latest
+      with:
+        token: ${{ inputs.token }}
+        filename: ${{ inputs.filename }}
+        base: ${{ inputs.base }}
+        template: ${{ inputs.template }}
+        config_twemoji: yes
+        use_prebuilt_image: yes
+        config_display: column
+        plugin_anilist: ${{ inputs.plugin_anilist }}
+        plugin_anilist_medias: ${{ inputs.plugin_anilist_medias }}
+        plugin_anilist_sections: ${{ inputs.plugin_anilist_sections }}
+        plugin_anilist_limit: ${{ inputs.plugin_anilist_limit }}
+        plugin_anilist_shuffle: ${{ inputs.plugin_anilist_shuffle }}
+        plugin_anilist_user: ${{ inputs.plugin_anilist_user }}
+        plugin_music: ${{ inputs.plugin_music }}
+        plugin_music_provider: ${{ inputs.plugin_music_provider }}
+        plugin_music_mode: ${{ inputs.plugin_music_mode }}
+        plugin_music_limit: ${{ inputs.plugin_music_limit }}
+        plugin_music_played_at: ${{ inputs.plugin_music_played_at }}
+        plugin_music_token: ${{ inputs.plugin_music_token }}
+        plugin_isocalendar: ${{ inputs.plugin_isocalendar }}
+        plugin_stars: ${{ inputs.plugin_stars }}
+        plugin_stars_limit: ${{ inputs.plugin_stars_limit }}
+        plugin_languages: ${{ inputs.plugin_languages }}
+        plugin_languages_details: ${{ inputs.plugin_languages_details }}

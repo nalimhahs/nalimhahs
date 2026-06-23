@@ -5,12 +5,16 @@ on:
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      # Pin to v3.34 SHA for supply-chain safety
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_SECRET }}
@@ -20,7 +24,7 @@ jobs:
           config_display: column
           template: terminal
           
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: NOT_NEEDED
           filename: metrics.left.svg
@@ -35,7 +39,7 @@ jobs:
           plugin_anilist_shuffle: yes                     # Shuffle data for more varied outputs
           plugin_anilist_user: .user.login
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: NOT_NEEDED
           filename: metrics.right.svg
@@ -50,7 +54,7 @@ jobs:
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_SECRET }}
